@@ -1,0 +1,38 @@
+
+.App {
+  background: #bbd5db;
+  text-align: center;
+  padding: 50px;
+  margin: 0 auto;
+}
+h1 {
+  color: #1f4752;
+}
+h3 {
+  font-size: 20px;
+  color: #1f4752;
+}
+.headerText {
+  text-align: left;
+  color: #1f4752;
+  line-height: 1.6;
+}
+.main_nav {
+  text-align: left;
+  padding-inline-start: 0;
+}
+.main_nav li {
+  list-style-type: none;
+  margin-top: 15px;
+}
+.main_nav_item {
+  font-weight: bold;
+  color: #1f4752;
+  text-decoration: none;
+}
+.mainTextItem {
+  text-align: justify;
+}
+.mainTextItemTitle {
+  text-align: center;
+}
